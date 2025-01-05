@@ -83,7 +83,7 @@ To ensure smooth collaboration, please follow these guidelines:
   - Hlaing Hpone
     - **Email**: hhpone1@kmd.edu.mm
     - **GitHub**: [https://github.com/HlaingHpone1](https://github.com/HlaingHpone1)
-- **Backend Developers**:[Yan Thainkha Htet], [Thant Htoo Aung]
+- **Backend Developers**:
   - Kyaw Thura
     - **Email**: kthura1@kmd.edu.mm
     - **GitHub**: [https://github.com/KyawThura5](https://github.com/KyawThura5)
