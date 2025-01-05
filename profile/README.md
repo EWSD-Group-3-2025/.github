@@ -1,4 +1,6 @@
-# EWSD-Group-3-2025
+# Hey 👋
+
+![133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6](https://github.com/user-attachments/assets/8373a8c2-908a-4608-8a39-b36105d13b46)
 
 Welcome to the official GitHub organization for **Enterprise Web Software Development (EWSD) Group 3** - Final Year Project (2025) as part of the **BSc Hons Computing program at the University of Greenwich**. This organization hosts all repositories and collaborative efforts for our final-year project.
 
