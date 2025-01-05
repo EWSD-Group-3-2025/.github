@@ -115,4 +115,4 @@ For any queries, feel free to reach out:
 ---
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](/LICENSE).
