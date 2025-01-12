@@ -82,7 +82,7 @@ To ensure smooth collaboration, please follow these guidelines:
 |-----|-----|-----
 | Planning & Design | System architecture and design documentation | 🔴 Not Started
 | Frontend Development | UI/UX design and implementation | 🔴 Not Started
-| Backend Development | API design, development, and integration | 🔴 Not Started
+| Backend Development | API design, development, and integration | 🟡 In Progress
 | Database Setup | Schema design and integration | 🔴 Not Started
 | Testing & Deployment | Comprehensive testing and deployment | 🔴 Not Started
 
