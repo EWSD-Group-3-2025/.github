@@ -91,7 +91,7 @@ To ensure smooth collaboration, please follow these guidelines:
 
 | Role | Name | GitHub | Email |
 |------|------|--------|-------|
-| Team Leader | Pan Thu | [@Pan-Thu-dev](https://github.com/Pan-Thu-dev) | pthu1@kmd.edu.mm |
+| Team Leader, Scrum Master | Pan Thu | [@Pan-Thu-dev](https://github.com/Pan-Thu-dev) | pthu1@kmd.edu.mm |
 | Frontend Developers | Arkar Min | [@Kei-K23](https://github.com/Kei-K23) | amin1@kmd.edu.mm |
 |  | Hlaing Hpone | [@HlaingHpone1](https://github.com/HlaingHpone1) | hhpone1@kmd.edu.mm |
 | Backend Developers | Kyaw Thura | [@KyawThura5](https://github.com/KyawThura5) | kthura1@kmd.edu.mm |
@@ -99,6 +99,7 @@ To ensure smooth collaboration, please follow these guidelines:
 |  | Thant Htoo Aung | [@thanthtooaung-coding](http://github.com/thanthtooaung-coding) | thaung7@kmd.edu.mm |
 | Database Specialist | Kyaw Thura | [@KyawThura5](https://github.com/KyawThura5) | kthura1@kmd.edu.mm |
 | Tester | Khine Shun Lae | [@katherinekhine](https://github.com/katherinekhine) | kslae1@kmd.edu.mm |
+|  | Pan Thu | [@Pan-Thu-dev](https://github.com/Pan-Thu-dev) | pthu1@kmd.edu.mm |
 | Documentation Masters | Lin Swan Saung | [@LinSwanSaung](https://github.com/LinSwanSaung) | lssaung1@kmd.edu.mm |
 |  | Min Swan Pyae | [@min-swan-pyae](https://github.com/min-swan-pyae) | mspyae1@kmd.edu.mm |
 
