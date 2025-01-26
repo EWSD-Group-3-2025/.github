@@ -80,8 +80,8 @@ To ensure smooth collaboration, please follow these guidelines:
 
 | Milestone | Description | Status
 |-----|-----|-----
-| Planning & Design | System architecture and design documentation | 🔴 Not Started
-| Frontend Development | UI/UX design and implementation | 🔴 Not Started
+| Planning & Design | System architecture and design documentation | 🟡 In Progress
+| Frontend Development | UI/UX design and implementation | 🟡 In Progress
 | Backend Development | API design, development, and integration | 🟡 In Progress
 | Database Setup | Schema design and integration | 🔴 Not Started
 | Testing & Deployment | Comprehensive testing and deployment | 🔴 Not Started
