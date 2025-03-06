@@ -109,7 +109,7 @@ To ensure smooth collaboration, please follow these guidelines:
 For any queries, feel free to reach out:
 
 - **GitHub Discussions**: Open a discussion in this organization.
-- **Email**: [pthu1@kmd.edu.mm](mailto:pthu1@kmd.edu.mm)
+- **Email**: [teamsmurfs2025@gmail.com](mailto:teamsmurfs2025@gmail.com)
 
 
 ## 📄 License
